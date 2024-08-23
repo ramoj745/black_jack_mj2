@@ -164,7 +164,6 @@ N = Fore.RED + "N" + Fore.RESET
 CHIPS = Fore.YELLOW + "chips!" + Fore.RESET
 
 playing = True
-
 chips_set = False
 
 print(colored_yellow("\nWelcome To BlackJack!"))
